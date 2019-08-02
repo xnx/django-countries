@@ -16,7 +16,7 @@ class CountriesBase(object):
         "KR": _("South Korea"),
         "LA": _("Laos"),
         "MD": _("Moldova"),
-        "MK": _("Macedonia"),
+        "MK": _("North Macedonia"),
         "RU": _("Russia"),
         "SY": _("Syria"),
         "TW": _("Taiwan"),

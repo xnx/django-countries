@@ -163,7 +163,7 @@ COUNTRIES = {
     "LT": _("Lithuania"),
     "LU": _("Luxembourg"),
     "MO": _("Macao"),
-    "MK": _("Macedonia (the former Yugoslav Republic of)"),
+    "MK": _("North Macedonia"),
     "MG": _("Madagascar"),
     "MW": _("Malawi"),
     "MY": _("Malaysia"),
